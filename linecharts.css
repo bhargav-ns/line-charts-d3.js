@@ -1,0 +1,118 @@
+text {
+  font-size: 15;
+}
+
+.axis line {
+  stroke: rgb(0, 0, 0);
+  stroke-width: 0.6;
+}
+
+.axis path {
+  stroke: rgb(0, 0, 0);
+  stroke-width: 0.6;
+}
+
+/* axis text */
+.axis text {
+  fill: #000000;
+  font-family: sans-serif;
+  font-size: 130%;
+}
+
+path.line {
+  fill: #5e3939;
+  stroke: #5e3939;
+  stroke-dasharray: 6;
+}
+
+path.line-0 {
+  fill: none;
+  stroke: #102a47;
+  color: rgb(50, 99, 139);
+}
+
+path.line-1 {
+  fill: none;
+  stroke: #b1c252;
+  color: rgb(50, 99, 139);
+}
+
+path.line-2 {
+  fill: none;
+  stroke: #32c7cc;
+}
+
+path.line-3 {
+  fill: none;
+  stroke: #0e793a;
+}
+
+path.line-4 {
+  fill: none;
+  stroke: #cf7575;
+}
+
+path.line-5 {
+  fill: none;
+  stroke: #5c0008;
+}
+
+path.line-6 {
+  fill: none;
+  stroke: #d1d88f;
+}
+
+path.line-7 {
+  fill: none;
+  stroke: #180b0b;
+}
+
+path.line-8 {
+  fill: none;
+  stroke: #09473f;
+}
+
+.Catan {
+  stroke: none;
+  fill: #102a4767;
+  font-size: 16;
+}
+
+.Magic {
+  stroke: none;
+  fill: #c43b19;
+  font-size: 16;
+}
+
+.Dixit {
+  stroke: none;
+  fill: #1f7c3ee8;
+  font-size: 16;
+}
+
+.Monopoly {
+  stroke: none;
+  fill: #050c14;
+  font-size: 16;
+}
+
+.Dominion {
+  stroke: none;
+  fill: #72ce60;
+  font-size: 16;
+}
+
+.Codenames {
+  fill: #32c7cc;
+  font-size: 16;
+}
+
+.Terraforming {
+  fill: #09473f9c;
+  font-size: 16;
+}
+
+.Gloomhaven {
+  fill: #5c00088a;
+  font-size: 16;
+}
